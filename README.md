@@ -5,7 +5,7 @@
 <p align="center">
   <b>💼 Senior QA Engineer | 🧪 Automation Specialist | 🇮🇳 Bengaluru, India</b><br>
   <a href="mailto:anirudh92@live.com">📧 Email</a> • 
-  <a href="https://linkedin.com/in/anirudhpatil">🔗 LinkedIn</a> • 
+  <a href="https://linkedin.com/in/anirudhpatilA">🔗 LinkedIn</a> • 
   <a href="https://github.com/AnirudhLab">🐙 GitHub</a>
 </p>
 
@@ -51,16 +51,16 @@ Detail-oriented **Senior QA Engineer** with 10+ years of experience in **test au
 ## ⚙️ Technical Stack
 
 ### ✏️ Testing & Automation
-`Test Strategy` • `API Testing` • `Automated Frameworks` (`pytest`, `Playwright`, `Selenium`) • `Performance Testing` • `End-to-End Automation` • `Postman` • `Burp Suite`
+`Test Strategy` • `API Testing` • `Automated Frameworks` (`pytest`, `Playwright`, `Selenium`) • `Performance Testing` • `End-to-End Automation` • `Postman` 
 
 ### 🗂️ Databases & Data Tooling
-`Oracle` • `MySQL` • `PostgreSQL` • `ETL Design & Validation` • `Airflow` • `Pandas` • `Data Validation` • `Faker` • `FactoryBoy`
+`Oracle` • `MySQL` • `PostgreSQL` • `ETL Design & Validation` • `Airflow` • `Pandas` • `Data Validation` • `Faker` 
 
 ### 💻 Development & DevOps
-`Python` • `Shell Scripting` • `Docker` • `Kubernetes` • `CI/CD` (`GitHub Actions`, `Jenkins`) • `Git` • `GitHub` • `Bitbucket`
+`Python` • `Shell Scripting` • `Docker` • `CI/CD` (`GitHub Actions`, `Jenkins`) • `Git` • `GitHub` 
 
 ### ☁️ Infrastructure & Cloud
-`Linux` • `Windows Server` • `SAN Management` • `AWS` • `Google Cloud` • `Oracle Cloud`
+`Linux` • `Windows Server` • `SAN Management` • `AWS` • `Google Cloud` 
 
 ### 🤖 AI & GenAI (Learning)
 `LLM Fine-tuning` • `Langchain` • `GenAI Tool Testing` • `TinyLlama` • `Prompt Engineering` • `N8N Automation`
@@ -86,7 +86,6 @@ Detail-oriented **Senior QA Engineer** with 10+ years of experience in **test au
 ---
 
 ## 🏅 Certifications
-
 
 ---
 
