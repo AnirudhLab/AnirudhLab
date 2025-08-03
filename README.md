@@ -17,27 +17,34 @@ Detail-oriented **Senior QA Engineer** with 10+ years of experience in **test au
 
 ---
 
+## 🔄 Now
+
+🧠 Currently learning: `LLMs`, `Langchain`, `TypeScript`  
+🧪 Working on: `Quiz MicroSaaS`, `Offline RAG System`, `ETL QA Toolkit`  
+🚀 Exploring: `RAG + Local LLMs`, `Prompt Engineering`, `Streamlit Cloud Deployment`
+
+---
+
 ## 💼 Professional Experience
 
 ### 🧪 **Senior QA Engineer** – Sequoia Group *(Aug 2022 – Present)*
 - Led a QA team of 4; mentored and standardized automation workflows
 - Built synthetic data generators boosting test coverage by 40%
 - Developed E2E automation framework for data quality validation
-- Collaborated across API/UI/data teams to align test schemas
 
 ### 🧪 **Senior QA Engineer** – Huawei Technologies *(Dec 2019 – Aug 2022)*
-- Delivered 92% automation coverage on Application Migration Module
-- Reduced API test cycles by 50% with custom automation
-- Conducted API security testing (Postman, Burp Suite)
+- Achieved 92% automation coverage on Application Migration Module
+- Built an API testing framework, reducing manual effort by 50%
+- Security testing (Postman, Burp Suite)  
 - 🏆 **Awards**: Future Star (2020), Timely Awards (3 years)
 
 ### 🧠 **Solution Engineer** – Datagres Technologies *(Jun 2018 – Dec 2019)*
 - Built containerized PerfAccel deployments across AWS, GCP, Oracle Cloud
-- Designed validation tools for Oracle & NoSQL DBs
+- Developed testing solutions for NoSQL and Oracle databases
 
 ### 💾 **Senior Project Engineer** – Wipro Limited *(Mar 2013 – Feb 2018)*
-- Spearheaded QA for enterprise storage platforms (IOPS optimization)
-- 🏅 Received “Best Technical Individual” multiple years
+- QA lead for enterprise storage software  
+- 🏅 Multiple “Best Technical Individual” awards
 
 ---
 
@@ -47,44 +54,44 @@ Detail-oriented **Senior QA Engineer** with 10+ years of experience in **test au
 `Test Strategy` • `API Testing` • `ETL Validation` • `Burp Suite` • `Postman` • `Allure`
 
 ### 🧮 Databases & Data QA  
-`Oracle` • `MySQL` • `PostgreSQL` • `DataFaker` • `Synthetic Data Gen` • `Airflow`
+`Oracle` • `MySQL` • `PostgreSQL` • `Airflow` • `Pandas` • `DataFaker`
 
-### 💻 Development & DevOps  
-`Python` • `Shell Scripting` • `Docker` • `Kubernetes` • `CI/CD` • `GitHub Actions`
+### 💻 Dev & DevOps  
+`Python` • `Shell` • `Docker` • `Kubernetes` • `CI/CD` • `GitHub Actions`
 
-### ☁️ Infrastructure & Cloud  
-`AWS` • `Google Cloud` • `Oracle Cloud` • `Linux Admin` • `SAN Storage`
+### ☁️ Infra & Cloud  
+`AWS` • `Google Cloud` • `Oracle Cloud` • `Linux` • `SAN`
 
 ### 🤖 AI & GenAI (Learning)  
-`LLMs` • `LangChain` • `Prompt Engineering` • `N8N` • `OpenAI APIs`
+`Langchain` • `OpenAI APIs` • `TinyLlama` • `N8N` • `Prompt Engineering`
 
 ---
 
-## 🚀 Projects & Tools
+## 🚀 Projects
 
 | Project | Description |
 |--------|-------------|
-| **API Automation Framework** *(2023)* | Pytest-based REST API validation with Allure reports (Spotify API) |
-| **ETL Data Validation Tool** *(2024)* | Framework to ensure ETL migration integrity using Pandas |
-| **AI-Powered Test Data Generator** *(2025)* | Synthetic data creator with OpenAI + LangChain |
-| **Database Migration Validator** *(2024)* | Cross-database migration checker for Oracle ↔ MySQL/Postgres |
+| **API Automation Framework** *(2023)* | Pytest-based REST API validation with Allure |
+| **ETL Data Validator** *(2024)* | Pandas-based migration testing framework |
+| **Test Data Generator (AI)** *(2025)* | Langchain + OpenAI for synthetic QA datasets |
+| **Cross-DB Migration Validator** *(2024)* | Oracle ↔ MySQL/PostgreSQL integrity checks |
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
 🎓 **MS Information Technology** – VIT University *(2017)*  
-🎓 **BSc Computer Science** – KSR College, Tiruchengode *(2012)*
+🎓 **BSc Computer Science** – KSR College *(2012)*
 
 ---
 
 ## 🏅 Certifications
 
-- 🛠️ **AWS DevOps Engineer** *(2023)*
-- 🐳 **Certified Kubernetes Administrator (CKA)** *(2022)*
-- 🧪 **ISTQB Advanced - Test Automation** *(2020)*
-- 🟢 **Six Sigma Green Belt** *(2019)*
-- 🛢️ **Oracle MySQL DBA** *(2021)*
+- 🛠️ **AWS DevOps Engineer**, 2023  
+- 🐳 **Kubernetes CKA**, 2022  
+- 🧪 **ISTQB Test Automation**, 2020  
+- 📈 **Six Sigma Green Belt**, 2019  
+- 🛢️ **MySQL DBA – Oracle Certified**, 2021
 
 ---
 
@@ -93,6 +100,14 @@ Detail-oriented **Senior QA Engineer** with 10+ years of experience in **test au
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnirudhLab&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhLab&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnirudhLab/AnirudhLab/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
