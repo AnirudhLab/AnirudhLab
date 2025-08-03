@@ -1,113 +1,117 @@
-# Anirudh Patil
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=150&section=header&text=Anirudh%20Patil&fontSize=40&fontColor=ffffff" />
+</p>
 
-## Senior QA Engineer
-
-Detail-oriented Senior QA Engineer with 10+ years of progressive experience in comprehensive quality assurance, test automation, and data validation. Specialized in database testing, ETL processes, and API validation.
-
-📍 Bengaluru, India  
-📧 anirudh92@live.com  
-🔗 [LinkedIn](http://linkedin.com/in/anirudhpatil)
-
----
-
-### 👨‍💻 Professional Experience
-
-**Senior QA Engineer** | Sequoia Group, Bengaluru, IN *(Aug 2022 - Present)*
-- Led a team of 4 QA engineers to oversee Data QA testing processes and mentor team members
-- Facilitated cross-functional discussions with API and UI teams to ensure alignment with data schema
-- Designed data generation tools for synthetic test data creation, improving test coverage by 40%
-- Developed automated end-to-end testing framework for data validation
-
-**Senior QA Engineer** | Huawei Technologies, Karnataka, IN *(Dec 2019 - Aug 2022)*
-- Achieved 92% automation coverage for Application Migration Module E2E Testing
-- Engineered automated API testing framework reducing testing cycles by 50%
-- Conducted security testing of APIs using Burp Suite and Postman
-- Received Future Star Award (2020) and Timely Awards (2020-2022)
-
-**Solution Engineer** | Datagres Technologies, Karnataka, IN *(Jun 2018 - Dec 2019)*
-- Architected containerized solutions with Docker and Kubernetes
-- Deployed PerfAccel Appliance on AWS, Google Cloud, and Oracle Cloud
-- Developed testing frameworks for NoSQL databases and Oracle 12c
-
-**Senior Project Engineer** | Wipro Limited, Karnataka, IN *(Mar 2013 - Feb 2018)*
-- Implemented enterprise storage solutions optimizing IOPS calculations
-- Executed comprehensive test plans and quality assurance processes
-- Received Best Technical Individual Award multiple years
+<p align="center">
+  <b>💼 Senior QA Engineer | 🧪 Automation Specialist | 🇮🇳 Bengaluru, India</b><br>
+  <a href="mailto:anirudh92@live.com">📧 Email</a> • 
+  <a href="https://linkedin.com/in/anirudhpatil">🔗 LinkedIn</a> • 
+  <a href="https://github.com/AnirudhLab">🐙 GitHub</a>
+</p>
 
 ---
 
-### 🛠️ Technical Skills
+## 👨‍💻 About Me
 
-#### Testing & Automation
-- Test Strategy & Planning
-- Automated Testing Frameworks
-- API Testing (Postman, Burp Suite)
-- Performance Testing
-- End-to-End Test Automation
-
-#### Databases & Data Tools
-- Oracle, MySQL, PostgreSQL
-- ETL Pipeline Design & Testing
-- Data Validation Frameworks
-- Synthetic Data Generation
-
-#### Development & DevOps
-- Python, Shell Scripting
-- Docker, Kubernetes
-- CI/CD Pipeline Management
-- GitHub, Version Control
-- Airflow, Pandas, Faker
-
-#### Infrastructure
-- Storage Solutions & SAN Management
-- Linux & Windows Server Administration
-- Cloud Platforms (AWS, Google Cloud, Oracle Cloud)
-
-#### AI/ML Technologies (Learning)
-- LLM Fine-tuning & Implementation
-- GenAI Tools & Testing
-- Langchain Framework
-- N8N Workflow Automation
+Detail-oriented **Senior QA Engineer** with 10+ years of experience in **test automation**, **ETL pipelines**, **API testing**, and **data validation**. Passionate about solving complex QA challenges and exploring emerging AI/ML tools in the QA space.
 
 ---
 
-### 🚀 Portfolio Projects
+## 💼 Professional Experience
 
-- **API Automation Framework (2023)**: Python-based API testing framework using pytest and Allure reporting for Spotify API validation
-- **ETL Data Validation Tool (2024)**: Python-based ETL validation framework with Pandas for ensuring data integrity across migrations
-- **AI-Powered Test Data Generator (2025)**: Synthetic data generation tool using OpenAI API and Langchain
-- **Database Migration Validator (2024)**: Automated validator for cross-database migrations between Oracle, MySQL, and PostgreSQL
+### 🧪 **Senior QA Engineer** – Sequoia Group *(Aug 2022 – Present)*
+- Led a QA team of 4; mentored and standardized automation workflows
+- Built synthetic data generators boosting test coverage by 40%
+- Developed E2E automation framework for data quality validation
+- Collaborated across API/UI/data teams to align test schemas
 
----
+### 🧪 **Senior QA Engineer** – Huawei Technologies *(Dec 2019 – Aug 2022)*
+- Delivered 92% automation coverage on Application Migration Module
+- Reduced API test cycles by 50% with custom automation
+- Conducted API security testing (Postman, Burp Suite)
+- 🏆 **Awards**: Future Star (2020), Timely Awards (3 years)
 
-### 🎓 Education
+### 🧠 **Solution Engineer** – Datagres Technologies *(Jun 2018 – Dec 2019)*
+- Built containerized PerfAccel deployments across AWS, GCP, Oracle Cloud
+- Designed validation tools for Oracle & NoSQL DBs
 
-- **MS Information Technology** | VIT University, Vellore *(2017)*
-- **BSc Computer Science** | KSR College of Arts of Science, Tiruchengode *(2012)*
-
----
-
-### 🏆 Certifications
-
-- AWS Certified DevOps Engineer, 2023
-- Certified Kubernetes Administrator (CKA), 2022
-- Six Sigma Green Belt, 2019
-- ISTQB Advanced Level Test Automation Engineer, 2020
-- Oracle Certified Professional, MySQL Database Administrator, 2021
+### 💾 **Senior Project Engineer** – Wipro Limited *(Mar 2013 – Feb 2018)*
+- Spearheaded QA for enterprise storage platforms (IOPS optimization)
+- 🏅 Received “Best Technical Individual” multiple years
 
 ---
 
-### 📊 GitHub Stats
+## ⚙️ Technical Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnirudhLab&show_icons=true&theme=radical)
+### 🧪 Testing & Automation  
+`Test Strategy` • `API Testing` • `ETL Validation` • `Burp Suite` • `Postman` • `Allure`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhLab&layout=compact&theme=radical)
+### 🧮 Databases & Data QA  
+`Oracle` • `MySQL` • `PostgreSQL` • `DataFaker` • `Synthetic Data Gen` • `Airflow`
+
+### 💻 Development & DevOps  
+`Python` • `Shell Scripting` • `Docker` • `Kubernetes` • `CI/CD` • `GitHub Actions`
+
+### ☁️ Infrastructure & Cloud  
+`AWS` • `Google Cloud` • `Oracle Cloud` • `Linux Admin` • `SAN Storage`
+
+### 🤖 AI & GenAI (Learning)  
+`LLMs` • `LangChain` • `Prompt Engineering` • `N8N` • `OpenAI APIs`
 
 ---
 
-### 📫 Connect With Me
+## 🚀 Projects & Tools
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/anirudhpatil)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anirudh92@live.com)
+| Project | Description |
+|--------|-------------|
+| **API Automation Framework** *(2023)* | Pytest-based REST API validation with Allure reports (Spotify API) |
+| **ETL Data Validation Tool** *(2024)* | Framework to ensure ETL migration integrity using Pandas |
+| **AI-Powered Test Data Generator** *(2025)* | Synthetic data creator with OpenAI + LangChain |
+| **Database Migration Validator** *(2024)* | Cross-database migration checker for Oracle ↔ MySQL/Postgres |
+
+---
+
+## 📚 Education
+
+🎓 **MS Information Technology** – VIT University *(2017)*  
+🎓 **BSc Computer Science** – KSR College, Tiruchengode *(2012)*
+
+---
+
+## 🏅 Certifications
+
+- 🛠️ **AWS DevOps Engineer** *(2023)*
+- 🐳 **Certified Kubernetes Administrator (CKA)** *(2022)*
+- 🧪 **ISTQB Advanced - Test Automation** *(2020)*
+- 🟢 **Six Sigma Green Belt** *(2019)*
+- 🛢️ **Oracle MySQL DBA** *(2021)*
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnirudhLab&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhLab&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/anirudhpatil">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:anirudh92@live.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+</p>
 
 <!-- Last Updated: August 3, 2025 -->
