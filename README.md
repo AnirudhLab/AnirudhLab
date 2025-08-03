@@ -87,11 +87,6 @@ Detail-oriented **Senior QA Engineer** with 10+ years of experience in **test au
 
 ## 🏅 Certifications
 
-- 🛠️ **AWS DevOps Engineer**, 2023  
-- 🐳 **Kubernetes CKA**, 2022  
-- 🧪 **ISTQB Test Automation**, 2020  
-- 📈 **Six Sigma Green Belt**, 2019  
-- 🛢️ **MySQL DBA – Oracle Certified**, 2021
 
 ---
 
