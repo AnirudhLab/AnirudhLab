@@ -50,20 +50,20 @@ Detail-oriented **Senior QA Engineer** with 10+ years of experience in **test au
 
 ## ⚙️ Technical Stack
 
-### 🧪 Testing & Automation  
-`Test Strategy` • `API Testing` • `ETL Validation` • `Burp Suite` • `Postman` • `Allure`
+### ✏️ Testing & Automation
+`Test Strategy` • `API Testing` • `Automated Frameworks` (`pytest`, `Playwright`, `Selenium`) • `Performance Testing` • `End-to-End Automation` • `Postman` • `Burp Suite`
 
-### 🧮 Databases & Data QA  
-`Oracle` • `MySQL` • `PostgreSQL` • `Airflow` • `Pandas` • `DataFaker`
+### 🗂️ Databases & Data Tooling
+`Oracle` • `MySQL` • `PostgreSQL` • `ETL Design & Validation` • `Airflow` • `Pandas` • `Data Validation` • `Faker` • `FactoryBoy`
 
-### 💻 Dev & DevOps  
-`Python` • `Shell` • `Docker` • `Kubernetes` • `CI/CD` • `GitHub Actions`
+### 💻 Development & DevOps
+`Python` • `Shell Scripting` • `Docker` • `Kubernetes` • `CI/CD` (`GitHub Actions`, `Jenkins`) • `Git` • `GitHub` • `Bitbucket`
 
-### ☁️ Infra & Cloud  
-`AWS` • `Google Cloud` • `Oracle Cloud` • `Linux` • `SAN`
+### ☁️ Infrastructure & Cloud
+`Linux` • `Windows Server` • `SAN Management` • `AWS` • `Google Cloud` • `Oracle Cloud`
 
-### 🤖 AI & GenAI (Learning)  
-`Langchain` • `OpenAI APIs` • `TinyLlama` • `N8N` • `Prompt Engineering`
+### 🤖 AI & GenAI (Learning)
+`LLM Fine-tuning` • `Langchain` • `GenAI Tool Testing` • `TinyLlama` • `Prompt Engineering` • `N8N Automation`
 
 ---
 
