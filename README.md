@@ -43,7 +43,7 @@ Detail-oriented **Senior QA Engineer** with 10+ years of experience in **test au
 - Developed testing solutions for NoSQL and Oracle databases
 
 ### 💾 **Senior Project Engineer** – Wipro Limited *(Mar 2013 – Feb 2018)*
-- QA lead for enterprise storage software  
+- Solutions and Maintenance lead for enterprise storage across multiple clients in Shared support services 
 - 🏅 Multiple “Best Technical Individual” awards
 
 ---
